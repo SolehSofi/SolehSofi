@@ -18,6 +18,8 @@
 
 🔗 Let’s connect at solehuddin_sofi@outlook.com and collaborate on exciting data science projects! 
 
+🤝 Thank you!
+
 
 <!---
 SolehSofi/SolehSofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
