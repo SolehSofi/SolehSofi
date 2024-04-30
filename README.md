@@ -10,13 +10,13 @@
  
 	•	Statistical Modeling: Applying advanced statistical techniques to solve real-world problems.
  
-💼 Currently I'm working as a Process Engineer.
+💼 Currently I'm working as a Process Engineer, where I actively engage with data to optimize operations and drive efficiency.
 
-🌱 I believe in 'Education is the key to unlock the golden door of freedom', thus I always improve my skills & knowledge in Data Science by joining Bootcamp & online short course.
+🌱 I believe in 'Education is the key to unlock the golden door of freedom', as such, I continuously enhance my skills and knowledge in Data Science through participation in bootcamps and online short courses..
 
 💡 I’m passionate about leveraging data-driven approaches to tackle challenges and drive innovation. 
 
-🔗 Let’s connect at solehuddin_sofi@outlook.com and collaborate on exciting data science projects! 
+🔗 Let's get in touch at solehuddin_sofi@outlook.com and team up on thrilling data science projects! Together, we can have a fun while diving into data analysis and exploration.
 
 🤝 Thank you!
 
