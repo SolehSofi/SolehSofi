@@ -14,7 +14,9 @@
 
 🌱 I believe in 'Education is the key to unlock the golden door of freedom', thus I always improve my skills & knowledge in Data Science by joining Bootcamp & online short course.
 
-💡 I’m passionate about leveraging data-driven approaches to tackle challenges and drive innovation. Let’s connect and collaborate on exciting data science projects!
+💡 I’m passionate about leveraging data-driven approaches to tackle challenges and drive innovation. 
+
+🔗 Let’s connect at solehuddin_sofi@outlook.com and collaborate on exciting data science projects! 
 
 
 <!---
